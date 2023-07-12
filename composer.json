@@ -1,6 +1,6 @@
 {
-    "name": "waka/wn-wbu-plugin",
-    "description": "Plugin BackUp",
+    "name": "waka/wn-spatiebu-plugin",
+    "description": "Plugin BackUp basé sur Spatie laravel Backup",
     "type": "winter-plugin",
     "require": {
         "spatie/laravel-backup": "^8.1"

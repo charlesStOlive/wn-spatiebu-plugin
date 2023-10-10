@@ -20,8 +20,8 @@ class Plugin extends PluginBase
     public function pluginDetails(): array
     {
         return [
-            'name'        => 'waka.wbu::lang.plugin.name',
-            'description' => 'waka.wbu::lang.plugin.description',
+            'name'        => 'waka.spatiebu::lang.plugin.name',
+            'description' => 'waka.spatiebu::lang.plugin.description',
             'author'      => 'waka',
             'icon'        => 'icon-leaf'
         ];

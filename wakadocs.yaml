@@ -1,0 +1,8 @@
+files:
+    spatiebu:
+        title: Module de sauvegarde
+        category_slug: "modules"
+        comment: "Sauvegarde"
+        permission: waka.docser.modules
+        relativePath: waka/spatiebu/docs
+        sort_order: 1000

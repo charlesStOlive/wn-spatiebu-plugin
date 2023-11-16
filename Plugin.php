@@ -43,36 +43,4 @@ class Plugin extends PluginBase
         }
 
     }
-
-    /**
-     * Boot method, called right before the request route.
-     */
-    public function boot(): void
-    {
-
-    }
-
-    /**
-     * Registers any frontend components implemented in this plugin.
-     */
-    public function registerComponents(): array
-    {
-        return []; // Remove this line to activate
-    }
-
-    /**
-     * Registers any backend permissions used by this plugin.
-     */
-    public function registerPermissions(): array
-    {
-        return []; // Remove this line to activate
-    }
-
-    /**
-     * Registers backend navigation items for this plugin.
-     */
-    public function registerNavigation(): array
-    {
-        return []; // Remove this line to activate
-    }
 }

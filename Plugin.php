@@ -1,9 +1,6 @@
-<?php namespace Waka\Wbu;
+<?php namespace Waka\SpatieBu;
 
-use Backend;
-use Backend\Models\UserRole;
 use System\Classes\PluginBase;
-use Illuminate\Foundation\AliasLoader;
 use App;
 
 /**
@@ -11,9 +8,7 @@ use App;
  */
 class Plugin extends PluginBase
 {
-    public $require = [
-        'Waka.Wutils',
-    ];
+    
     /**
      * Returns information about this plugin.
      */
